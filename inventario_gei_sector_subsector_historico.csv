@@ -1,0 +1,198 @@
+año;sector;subsector;valor
+2000;Residuos;Agua residual generada en la Ciudad;359.001
+2001;Residuos;Agua residual generada en la Ciudad;335.193
+2002;Residuos;Agua residual generada en la Ciudad;336.999
+2003;Residuos;Agua residual generada en la Ciudad;345.061
+2004;Residuos;Agua residual generada en la Ciudad;355.712
+2005;Residuos;Agua residual generada en la Ciudad;374.112
+2006;Residuos;Agua residual generada en la Ciudad;378.539
+2007;Residuos;Agua residual generada en la Ciudad;393.278
+2008;Residuos;Agua residual generada en la Ciudad;391.191
+2009;Residuos;Agua residual generada en la Ciudad;390.782
+2010;Residuos;Agua residual generada en la Ciudad;386.476
+2011;Residuos;Agua residual generada en la Ciudad;384.244
+2012;Residuos;Agua residual generada en la Ciudad;387.025
+2013;Residuos;Agua residual generada en la Ciudad;384.157
+2014;Residuos;Agua residual generada en la Ciudad;389.691
+2015;Residuos;Agua residual generada en la Ciudad;393.553
+2016;Residuos;Agua residual generada en la Ciudad;383.235
+2017;Residuos;Agua residual generada en la Ciudad;388.887
+2018;Residuos;Agua residual generada en la Ciudad;370.364
+2019;Residuos;Agua residual generada en la Ciudad;376.320
+2020;Residuos;Agua residual generada en la Ciudad;367.800
+2000;Energía;Edificios e instalaciones comerciales;1.715.320
+2001;Energía;Edificios e instalaciones comerciales;1.413.062
+2002;Energía;Edificios e instalaciones comerciales;1.257.178
+2003;Energía;Edificios e instalaciones comerciales;1.367.529
+2004;Energía;Edificios e instalaciones comerciales;1.631.704
+2005;Energía;Edificios e instalaciones comerciales;1.609.284
+2006;Energía;Edificios e instalaciones comerciales;1.709.064
+2007;Energía;Edificios e instalaciones comerciales;2.044.316
+2008;Energía;Edificios e instalaciones comerciales;2.124.232
+2009;Energía;Edificios e instalaciones comerciales;1.942.992
+2010;Energía;Edificios e instalaciones comerciales;2.042.261
+2011;Energía;Edificios e instalaciones comerciales;2.132.073
+2012;Energía;Edificios e instalaciones comerciales;2.292.300
+2013;Energía;Edificios e instalaciones comerciales;2.134.285
+2014;Energía;Edificios e instalaciones comerciales;2.125.074
+2015;Energía;Edificios e instalaciones comerciales;2.193.175
+2016;Energía;Edificios e instalaciones comerciales;2.101.652
+2017;Energía;Edificios e instalaciones comerciales;1.857.358
+2018;Energía;Edificios e instalaciones comerciales;1.661.289
+2019;Energía;Edificios e instalaciones comerciales;1.542.283
+2020;Energía;Edificios e instalaciones comerciales;1.252.983
+2000;Energía;Edificios e instalaciones institucionales;312.167
+2001;Energía;Edificios e instalaciones institucionales;252.754
+2002;Energía;Edificios e instalaciones institucionales;245.616
+2003;Energía;Edificios e instalaciones institucionales;352.072
+2004;Energía;Edificios e instalaciones institucionales;439.663
+2005;Energía;Edificios e instalaciones institucionales;487.035
+2006;Energía;Edificios e instalaciones institucionales;529.406
+2007;Energía;Edificios e instalaciones institucionales;588.032
+2008;Energía;Edificios e instalaciones institucionales;655.509
+2009;Energía;Edificios e instalaciones institucionales;611.649
+2010;Energía;Edificios e instalaciones institucionales;635.408
+2011;Energía;Edificios e instalaciones institucionales;703.941
+2012;Energía;Edificios e instalaciones institucionales;705.492
+2013;Energía;Edificios e instalaciones institucionales;744.609
+2014;Energía;Edificios e instalaciones institucionales;733.697
+2015;Energía;Edificios e instalaciones institucionales;705.894
+2016;Energía;Edificios e instalaciones institucionales;699.227
+2017;Energía;Edificios e instalaciones institucionales;700.079
+2018;Energía;Edificios e instalaciones institucionales;633.151
+2019;Energía;Edificios e instalaciones institucionales;536.869
+2020;Energía;Edificios e instalaciones institucionales;449.437
+2000;Energía;Edificios residenciales;3.353.328
+2001;Energía;Edificios residenciales;3.011.436
+2002;Energía;Edificios residenciales;2.910.439
+2003;Energía;Edificios residenciales;3.086.629
+2004;Energía;Edificios residenciales;3.189.204
+2005;Energía;Edificios residenciales;3.274.097
+2006;Energía;Edificios residenciales;3.221.343
+2007;Energía;Edificios residenciales;3.819.519
+2008;Energía;Edificios residenciales;3.703.263
+2009;Energía;Edificios residenciales;3.648.429
+2010;Energía;Edificios residenciales;3.687.111
+2011;Energía;Edificios residenciales;3.957.800
+2012;Energía;Edificios residenciales;3.941.770
+2013;Energía;Edificios residenciales;3.873.658
+2014;Energía;Edificios residenciales;3.778.511
+2015;Energía;Edificios residenciales;3.810.913
+2016;Energía;Edificios residenciales;3.920.686
+2017;Energía;Edificios residenciales;3.296.985
+2018;Energía;Edificios residenciales;3.268.683
+2019;Energía;Edificios residenciales;2.951.712
+2020;Energía;Edificios residenciales;3.112.589
+2000;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;215.748
+2001;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;174.854
+2002;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;131.773
+2003;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;149.007
+2004;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;190.570
+2005;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;185.725
+2006;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;193.183
+2007;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;198.132
+2008;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;189.519
+2009;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;190.303
+2010;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;160.988
+2011;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;167.807
+2012;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;174.351
+2013;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;164.825
+2014;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;153.839
+2015;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;155.235
+2016;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;146.100
+2017;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;182.104
+2018;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;185.527
+2019;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;182.339
+2020;Energía;Emisiones fugitivas de sistemas de petróleo y gas natural;161.998
+2000;Energía;Industrias manufactureras y construcción;780.307
+2001;Energía;Industrias manufactureras y construcción;583.067
+2002;Energía;Industrias manufactureras y construcción;518.426
+2003;Energía;Industrias manufactureras y construcción;595.570
+2004;Energía;Industrias manufactureras y construcción;681.243
+2005;Energía;Industrias manufactureras y construcción;658.625
+2006;Energía;Industrias manufactureras y construcción;808.295
+2007;Energía;Industrias manufactureras y construcción;861.144
+2008;Energía;Industrias manufactureras y construcción;796.623
+2009;Energía;Industrias manufactureras y construcción;679.285
+2010;Energía;Industrias manufactureras y construcción;1.567.458
+2011;Energía;Industrias manufactureras y construcción;2.235.829
+2012;Energía;Industrias manufactureras y construcción;1.909.555
+2013;Energía;Industrias manufactureras y construcción;1.220.738
+2014;Energía;Industrias manufactureras y construcción;987.116
+2015;Energía;Industrias manufactureras y construcción;851.591
+2016;Energía;Industrias manufactureras y construcción;1.169.891
+2017;Energía;Industrias manufactureras y construcción;1.564.073
+2018;Energía;Industrias manufactureras y construcción;1.231.295
+2019;Energía;Industrias manufactureras y construcción;879.451
+2020;Energía;Industrias manufactureras y construcción;810.120
+2013;Residuos;Residuos biológicos generados en la ciudad;5.893
+2014;Residuos;Residuos biológicos generados en la ciudad;12.031
+2015;Residuos;Residuos biológicos generados en la ciudad;10.113
+2016;Residuos;Residuos biológicos generados en la ciudad;10.755
+2017;Residuos;Residuos biológicos generados en la ciudad;11.563
+2018;Residuos;Residuos biológicos generados en la ciudad;12.100
+2019;Residuos;Residuos biológicos generados en la ciudad;9.018
+2020;Residuos;Residuos biológicos generados en la ciudad;9.067
+2000;Residuos;Residuos sólidos generados en la Ciudad;1.719.235
+2001;Residuos;Residuos sólidos generados en la Ciudad;1.763.622
+2002;Residuos;Residuos sólidos generados en la Ciudad;1.793.295
+2003;Residuos;Residuos sólidos generados en la Ciudad;1.773.326
+2004;Residuos;Residuos sólidos generados en la Ciudad;1.757.837
+2005;Residuos;Residuos sólidos generados en la Ciudad;1.758.600
+2006;Residuos;Residuos sólidos generados en la Ciudad;1.736.211
+2007;Residuos;Residuos sólidos generados en la Ciudad;1.729.611
+2008;Residuos;Residuos sólidos generados en la Ciudad;1.667.474
+2009;Residuos;Residuos sólidos generados en la Ciudad;1.644.452
+2010;Residuos;Residuos sólidos generados en la Ciudad;1.606.316
+2011;Residuos;Residuos sólidos generados en la Ciudad;1.693.379
+2012;Residuos;Residuos sólidos generados en la Ciudad;1.847.577
+2013;Residuos;Residuos sólidos generados en la Ciudad;1.949.358
+2014;Residuos;Residuos sólidos generados en la Ciudad;2.050.583
+2015;Residuos;Residuos sólidos generados en la Ciudad;2.039.276
+2016;Residuos;Residuos sólidos generados en la Ciudad;2.008.657
+2017;Residuos;Residuos sólidos generados en la Ciudad;1.956.657
+2018;Residuos;Residuos sólidos generados en la ciudad;1.861.843
+2019;Residuos;Residuos sólidos generados en la ciudad;1.804.765
+2020;Residuos;Residuos sólidos generados en la ciudad;1.749.362
+2000;Transporte;Transporte Carretero;3.292.581
+2001;Transporte;Transporte Carretero;3.420.185
+2002;Transporte;Transporte Carretero;3.319.154
+2003;Transporte;Transporte Carretero;3.405.722
+2004;Transporte;Transporte Carretero;3.369.181
+2005;Transporte;Transporte Carretero;3.269.494
+2006;Transporte;Transporte Carretero;3.127.640
+2007;Transporte;Transporte Carretero;3.374.520
+2008;Transporte;Transporte Carretero;3.447.644
+2009;Transporte;Transporte Carretero;3.418.795
+2010;Transporte;Transporte Carretero;3.405.766
+2011;Transporte;Transporte Carretero;3.356.232
+2012;Transporte;Transporte Carretero;3.446.132
+2013;Transporte;Transporte Carretero;3.734.048
+2014;Transporte;Transporte Carretero;3.366.063
+2015;Transporte;Transporte Carretero;3.378.716
+2016;Transporte;Transporte Carretero;3.457.000
+2017;Transporte;Transporte Carretero;3.384.207
+2018;Transporte;Transporte Carretero;3.387.023
+2019;Transporte;Transporte Carretero;3.365.211
+2020;Transporte;Transporte Carretero;2.386.734
+2000;Transporte;Trenes y subtes;66.881
+2001;Transporte;Trenes y subtes;51.919
+2002;Transporte;Trenes y subtes;48.997
+2003;Transporte;Trenes y subtes;50.350
+2004;Transporte;Trenes y subtes;68.408
+2005;Transporte;Trenes y subtes;74.751
+2006;Transporte;Trenes y subtes;67.554
+2007;Transporte;Trenes y subtes;94.305
+2008;Transporte;Trenes y subtes;106.880
+2009;Transporte;Trenes y subtes;100.479
+2010;Transporte;Trenes y subtes;105.258
+2011;Transporte;Trenes y subtes;116.080
+2012;Transporte;Trenes y subtes;113.296
+2013;Transporte;Trenes y subtes;95.381
+2014;Transporte;Trenes y subtes;97.772
+2015;Transporte;Trenes y subtes;97.210
+2016;Transporte;Trenes y subtes;72.518
+2017;Transporte;Trenes y subtes;62.408
+2018;Transporte;Trenes y subtes;59.062
+2019;Transporte;Trenes y subtes;53.793
+2020;Transporte;Trenes y subtes;48.828
